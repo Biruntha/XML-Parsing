@@ -1,0 +1,9 @@
+<!ELEMENT Customers (Customer +)>
+<!ELEMENT Customer (CompanyName,ContactName,FullAddress)>
+<!ELEMENT FullAddress (Address,City,Country)>
+<!ELEMENT CompanyName (#PCDATA)>
+<!ELEMENT ContactName (#PCDATA)>
+<!ELEMENT Address (#PCDATA)>
+<!ELEMENT City (#PCDATA)>
+<!ELEMENT Country (#PCDATA)>
+

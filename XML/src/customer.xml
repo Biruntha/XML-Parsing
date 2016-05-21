@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="customer.xsl" type="text/xsl"?>
+<!DOCTYPE Customers SYSTEM "customer.dtd">
+<!DOCTYPE Customers SYSTEM "customer.xsd">
+<Customers>
+    <Customer>
+        <CompanyName>Great Lakes Food Market</CompanyName>
+        <ContactName>Howard Snyder</ContactName>
+        <FullAddress>
+            <Address>2732 Baker Blvd.</Address>
+            <City>Eugene</City>
+            <Country>USA</Country>
+        </FullAddress>
+    </Customer>
+    <Customer>
+        <CompanyName>Hungry Coyote Import Store</CompanyName>
+        <ContactName>Yoshi Latimer</ContactName>
+        <FullAddress>
+            <Address>City Center Plaza 516 Main St.</Address>
+            <City>Elgin</City>
+            <Country>USA</Country>
+        </FullAddress>
+    </Customer>
+</Customers>

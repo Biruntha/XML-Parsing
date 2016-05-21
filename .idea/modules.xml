@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Biruntha.iml" filepath="$PROJECT_DIR$/Biruntha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDOM parsing/JDOM parsing.iml" filepath="$PROJECT_DIR$/JDOM parsing/JDOM parsing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XML/Java DOM.iml" filepath="$PROJECT_DIR$/XML/Java DOM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Dom Parsing/Java Dom Parsing.iml" filepath="$PROJECT_DIR$/Java Dom Parsing/Java Dom Parsing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java StAX Parsing/Java StAX Parsing.iml" filepath="$PROJECT_DIR$/Java StAX Parsing/Java StAX Parsing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XML/XML.iml" filepath="$PROJECT_DIR$/XML/XML.iml" />
+    </modules>
+  </component>
+</project>
